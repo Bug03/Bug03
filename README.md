@@ -10,7 +10,7 @@
   <em>Backend Developer at <strong>Ainosha AI</strong> | Passionate about building Intelligent Web Applications & AI Solutions</em>
   <br />
   <a href="https://www.linkedin.com/in/danhnguyen03" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.ainosha.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%2FCompany-AinoshaAI-brightgreen?style=for-the-badge" /></a>
+  <a href="https://www.ainosha.com/" target="_blank"><img src="https://img.shields.io/badge/Company-Ainosha-brightgreen?style=for-the-badge" /></a>
   <a href="https://github.com/Bug03" target="_blank"><img src="https://img.shields.io/github/followers/Bug03?label=Follow&style=for-the-badge&logo=github&color=089608" /></a>
 </p>
 
@@ -31,10 +31,10 @@ I'm a Backend Developer at **Ainosha AI** (my name is Nguyễn Cảnh Hoàng Dan
 ## 🚀 My Tech Stack & Expertise
 
 -   **Backend Development:** `Laravel`, `RESTful APIs`, `Database Design & Optimization`
--   **Frontend Development:** `Next.js`, `React.js`, `TypeScript`, Responsive E-commerce Solutions
--   **AI & Machine Learning:** `AI Agent Development (LangGraph)`, `RAG Systems (Corrective-RAG, Self-RAG, Adaptive-RAG)`
+-   **Frontend Development:** `Next.js`, `React.js`, `TypeScript`
+-   **AI & Machine Learning:** `Multi AI Agent Development (LangGraph)`, `RAG Systems (Corrective-RAG, Self-RAG, Adaptive-RAG)`
 -   **DevOps & Deployment:** `CI/CD Pipelines`, Automated Deployment Workflows
--   **Software Architecture:** `Design Patterns`, Best Practices
+-   **Software Architecture:** `Design Patterns`, `Domain-Driven Design`
 
 ## ✨ My Current Focus
 
@@ -47,18 +47,6 @@ My recent work involves:
 
 I'm always diving deeper into the intersection of **web development and artificial intelligence**, with a keen focus on creating practical AI solutions that solve real-world problems.
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/Bug03">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bug03&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Bug03's Trophies"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bug03/Bug03/main/github-achievements.png" alt="GitHub Achievements Badges" /> <!-- You'll need to take a screenshot of your achievements and upload it, or link them individually -->
-</p>
-
-
 ## 📊 My GitHub Stats
 
 <p align="center">
@@ -67,6 +55,14 @@ I'm always diving deeper into the intersection of **web development and artifici
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bug03&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/Bug03">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bug03&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Bug03's Trophies"/>
+  </a>
 </p>
 
 ## 🔗 Connect with Me
