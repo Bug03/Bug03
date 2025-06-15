@@ -57,14 +57,6 @@ I'm always diving deeper into the intersection of **web development and artifici
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bug03&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/Bug03">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bug03&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Bug03's Trophies"/>
-  </a>
-</p>
-
 ## 🔗 Connect with Me
 
 <p align="center">
