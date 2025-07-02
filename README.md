@@ -50,7 +50,7 @@ I'm always diving deeper into the intersection of **web development and artifici
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bug03&show_icons=true&theme=tokyonight&count_private=false&hide_border=true" alt="Bug03's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bug03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Bug03's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bug03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
