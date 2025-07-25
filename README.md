@@ -54,6 +54,15 @@ I'm always diving deeper into the intersection of **web development and artifici
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bug03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake.svg">
+    </picture>
+</p>
+
+
 ## 🔗 Connect with Me
 
 <p align="center">
