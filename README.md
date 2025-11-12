@@ -5,7 +5,9 @@
 
 </div>
 
-<h1 align="center">Hi there, I'm Danh 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danh!;" />
+</h1>
 <p align="center">
   <em>Backend Developer at <strong>Ainosha AI</strong> | Passionate about building Intelligent Web Applications & AI Solutions</em>
   <br />
