@@ -1,18 +1,13 @@
 <div align="center">
-  <!-- 🎨 BANNER PLACEHOLDER 🎨 -->
-  <!-- Create a banner (e.g., 1280x300px) and upload it to this repository (Bug03/Bug03) -->
-  <!-- Then replace the div below with: <img src="https://raw.githubusercontent.com/Bug03/Bug03/main/your-banner-name.png_or_gif" alt="Hi, I'm Akai - Backend Developer at Ainosha AI" width="800"/> -->
-
-</div>
+  </div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danh!;" />
 </h1>
 <p align="center">
-  <em>Backend Developer at <strong>Ainosha AI</strong> | Passionate about building Intelligent Web Applications & AI Solutions</em>
+  <em>Java Backend Developer at <strong>Ainosha</strong> | Passionate about building Scalable Applications & Intelligent Solutions</em>
   <br />
   <a href="https://www.linkedin.com/in/danhnguyen03" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.ainosha.com/" target="_blank"><img src="https://img.shields.io/badge/Company-Ainosha-brightgreen?style=for-the-badge" /></a>
   <a href="https://github.com/Bug03" target="_blank"><img src="https://img.shields.io/github/followers/Bug03?label=Follow&style=for-the-badge&logo=github&color=089608" /></a>
 </p>
 
@@ -23,38 +18,33 @@
 ---
 
 <p align="center">
-  🏆 <strong>Thrilled to announce our team at Ainosha AI achieved Top 3 at the Super Vietnam Pitchfest 2025 for Blockchain & Pitchfest!</strong> 🏆
+  🏆 <strong>Thrilled to announce our team at Ainosha achieved Top 3 at the Super Vietnam Pitchfest 2025 for Blockchain & Pitchfest!</strong> 🏆
 </p>
 
 ---
 
-I'm a Backend Developer at **Ainosha AI** (my name is Nguyễn Cảnh Hoàng Danh, and I go by Akai or Bug03 online), specializing in developing intelligent web applications that bridge traditional full-stack development with cutting-edge AI capabilities. I'm driven by the challenge of creating practical, scalable, and innovative AI solutions for real-world applications. My pronouns are he/him.
+I'm a Java Backend Developer (my name is Nguyễn Cảnh Hoàng Danh, and I go by Akai or Bug03 online), specializing in developing scalable backend architectures that bridge traditional high-performance enterprise development with cutting-edge AI capabilities. I'm driven by the challenge of creating practical, reliable, and innovative solutions for real-world applications.
 
 ## 🚀 My Tech Stack & Expertise
 
--   **Backend Development:** `Laravel`, `RESTful APIs`, `Database Design & Optimization`
--   **Frontend Development:** `Next.js`, `React.js`, `TypeScript`
--   **AI & Machine Learning:** `Multi AI Agent Development (LangGraph)`, `RAG Systems (Corrective-RAG, Self-RAG, Adaptive-RAG)`
--   **DevOps & Deployment:** `CI/CD Pipelines`, Automated Deployment Workflows
--   **Software Architecture:** `Design Patterns`, `Domain-Driven Design`
+-   **Backend Development:** `Java`, `Spring Boot`, `Spring Framework`, `RESTful APIs`, `Database Design & Optimization`
+-   **Frontend Development:** `Next.js`, `React.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`
+-   **Messaging & Caching:** `RabbitMQ`, `Redis` 
+-   **AI & Automation:** `Multi AI Agent Development (LangGraph)`, `RAG Systems`, `N8N`, `MCP`
+-   **DevOps & Observability:** `Docker`, `Prometheus`, `Grafana`, `AWS S3`, `Cloudflare R2`
+-   **Software Architecture:** `Design Patterns`
 
 ## ✨ My Current Focus
 
 My recent work involves:
--   Building AI agents using **LangGraph** for automated workflows.
--   Implementing **Retrieval-Augmented Generation (RAG)** systems for enhanced data retrieval.
--   Creating scalable web applications with **Next.js** and **Laravel**.
+-   Building robust, production-ready backend workflows using **Java** and the **Spring Ecosystem**.
+-   Optimizing query execution and system throughput using indexing, partitioning, and caching strategies.
+-   Implementing automated testing following the **AAA pattern** with **JUnit 5** and **Mockito** to ensure 90% code coverage.
+-   Integrating multi-agent AI systems and flexible event-driven modules using the **Transactional Outbox Pattern**.
 
 ## 🌱 Currently Exploring
 
-I'm always diving deeper into the intersection of **web development and artificial intelligence**, with a keen focus on creating practical AI solutions that solve real-world problems.
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bug03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Bug03's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bug03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+I'm always diving deeper into the intersection of **enterprise Java development and artificial intelligence**, with a keen focus on creating highly-maintainable, low-latency web solutions that solve real-world problems.
 
 <p align="center">
     <picture>
@@ -64,14 +54,12 @@ I'm always diving deeper into the intersection of **web development and artifici
     </picture>
 </p>
 
-
 ## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danhnguyen03/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-danhnguyen03-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.ainosha.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Ainosha_AI-brightgreen?style=flat-square"></a>
   <a href="https://www.facebook.com/danh03112003" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-danh03112003-1877F2?style=flat-square&logo=facebook"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail"></a> <!-- Replace with your actual email if you want to share it -->
+  <a href="mailto:nchd03112003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
