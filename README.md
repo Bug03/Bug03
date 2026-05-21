@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danh!;" />
 </h1>
 <p align="center">
-  <em>Java Backend Developer at <strong>Ainosha</strong> | Passionate about building Scalable Applications & Intelligent Solutions</em>
+  <em>Java Backend Developer | Passionate about building Scalable Applications & Intelligent Solutions</em>
   <br />
   <a href="https://www.linkedin.com/in/danhnguyen03" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bug03" target="_blank"><img src="https://img.shields.io/github/followers/Bug03?label=Follow&style=for-the-badge&logo=github&color=089608" /></a>
@@ -13,12 +13,6 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bug03.Bug03" alt="visitors"/>
-</p>
-
----
-
-<p align="center">
-  🏆 <strong>Thrilled to announce our team at Ainosha achieved Top 3 at the Super Vietnam Pitchfest 2025 for Blockchain & Pitchfest!</strong> 🏆
 </p>
 
 ---
