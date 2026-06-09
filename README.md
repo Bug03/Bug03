@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danh!;" />
 </h1>
 <p align="center">
-  <em>Java Backend Developer | Passionate about building Scalable Applications & Intelligent Solutions</em>
+  <em>Backend Developer | Passionate about building Scalable Applications & Intelligent Solutions</em>
   <br />
   <a href="https://www.linkedin.com/in/danhnguyen03" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bug03" target="_blank"><img src="https://img.shields.io/github/followers/Bug03?label=Follow&style=for-the-badge&logo=github&color=089608" /></a>
@@ -17,11 +17,11 @@
 
 ---
 
-I'm a Java Backend Developer (my name is Nguyễn Cảnh Hoàng Danh, and I go by Akai or Bug03 online), specializing in developing scalable backend architectures that bridge traditional high-performance enterprise development with cutting-edge AI capabilities. I'm driven by the challenge of creating practical, reliable, and innovative solutions for real-world applications.
+I'm a Backend Developer (my name is Nguyễn Cảnh Hoàng Danh, and I go by Akai or Bug03 online), specializing in developing scalable backend architectures that bridge traditional high-performance enterprise development with cutting-edge AI capabilities. I'm driven by the challenge of creating practical, reliable, and innovative solutions for real-world applications.
 
 ## 🚀 My Tech Stack & Expertise
 
--   **Backend Development:** `Java`, `Spring Boot`, `Spring Framework`, `RESTful APIs`, `Database Design & Optimization`
+-   **Backend Development:** `Java`, `Spring Boot`, `Spring Framework`, `Php`, `Laravel`, `RESTful APIs`, `Database Design & Optimization`
 -   **Frontend Development:** `Next.js`, `React.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`
 -   **Messaging & Caching:** `RabbitMQ`, `Redis` 
 -   **AI & Automation:** `Multi AI Agent Development (LangGraph)`, `RAG Systems`, `N8N`, `MCP`
